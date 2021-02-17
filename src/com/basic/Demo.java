@@ -4,7 +4,7 @@ public class Demo {
 	
 	public Demo()
 	{
-		System.out.println("This is default constructor");
+		System.out.println("This is default constructorrr");
 	}
 
 }
